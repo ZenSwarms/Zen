@@ -1,0 +1,56 @@
+# Dark Forest Herb Quest
+
+## Overview
+Lead your mysterious followers through the eerie depths of the Dark Forest in search of the legendary *Herb of Shadows*, a plant known for its magical properties.
+
+## Quest Details
+
+### **Objective**
+- **Find the Herb of Shadows**: The primary goal is to locate this rare herb which grows only under the darkest canopy of the forest.
+
+### **Setting**
+- **Location**: Dark Forest, known for its thick canopies, eerie whispers, and nocturnal creatures.
+
+### **Characters**
+- **Leader (Player)**: You are the enigmatic figure leading the hooded swarm.
+- **Hooded Followers**: Silent, cloaked figures who follow your commands but do not speak or act independently.
+
+### **Game Mechanics**
+
+#### **Navigation**
+- **Pathfinding**: Use a combination of intuition and ancient maps to navigate through the forest. Paths are not always visible or straightforward.
+- **Decision Points**: At various points, choose between paths that might lead to danger or the herb.
+
+#### **Challenges**
+- **Forest Guardians**: Deal with or avoid creatures and spirits guarding the forest.
+- **Darkness**: The forest is perpetually dark; manage light sources wisely.
+
+#### **Resources**
+- **Herbal Lore**: Collect other herbs which might aid in health, vision, or reveal hidden paths.
+- **Magic**: Use minor spells or rituals known by the leader to influence the outcome of the journey.
+
+### **Quest Phases**
+
+1. **Entry into the Dark Forest**
+   - Initial exploration, setting the mood and introducing mechanics.
+
+2. **Navigating the Gloom**
+   - Encounter minor obstacles, learn about the forest's inhabitants.
+
+3. **The Heart of Darkness**
+   - Reach the center where the Herb of Shadows is rumored to grow, facing the most formidable challenges.
+
+4. **Return with the Herb**
+   - Safely navigate back through potentially altered or more dangerous paths to exit the forest.
+
+### **End Conditions**
+- **Success**: Find the Herb of Shadows and escape the forest.
+- **Failure**: Get lost, run out of resources, or succumb to the forest's perils.
+
+### **Additional Notes**
+- **Atmosphere**: Emphasize the eerie, mystical feel of the forest with sound and visual effects.
+- **Replayability**: Randomize elements like creature encounters and herb locations for multiple playthroughs.
+
+## Contributions
+- Feel free to fork this repository and add your own twists to the quest mechanics or narrative!
+- Issues and feature requests are welcome!
