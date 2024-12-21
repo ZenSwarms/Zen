@@ -4,7 +4,7 @@
 
 🍃 Features
 
-    🛠️ Full-featured Discord, Twitter and Telegram connectors
+    🛠️ Full-featured, Twitter connectors
     🔗 Support for every model (Llama, Grok, OpenAI, Anthropic, etc.)
     👥 Multi-agent and room support
     📚 Easily ingest and interact with your documents
@@ -12,8 +12,6 @@
     🚀 Highly extensible - create your own actions and clients
     ☁️ Supports many models (local Llama, OpenAI, Anthropic, Groq, etc.)
     📦 Just works!
-
-Video Tutorials
 
 AI Agent Dev School
 🎯 Use Cases
