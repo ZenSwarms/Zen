@@ -5,7 +5,7 @@ import "./App.css";
 
 type Agent = {
     id: string;
-    name: string;
+    name: swarm;
 };
 
 function Agents() {
@@ -44,4 +44,4 @@ function Agents() {
     );
 }
 
-export default Agents;
+export default Agents; swarm
