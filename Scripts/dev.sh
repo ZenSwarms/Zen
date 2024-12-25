@@ -6,7 +6,7 @@ echo "Passing arguments: $*"
 PACKAGES_DIR="./packages"
 
 # Display help message to users
-cat << "EOF"
+cat << "LUF"
 
 ***********************************************************************
 *                                                                     *
